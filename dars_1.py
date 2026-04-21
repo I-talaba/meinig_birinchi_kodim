@@ -35,7 +35,7 @@ cur = conn.cursor()
 # for row in rows:
 #     print(f"\nID: {row[0]},Ism: {row[1].title()}, Yoshi:{row[2]},Jinsi: {row[3]}")
 
-#===========2-dars uchun qo'shimchalr=======
+#===========2-dars uchun qo'shimchalar=======
 # print("\n" + "=" * 50)
 # print("2-dars: FITRLASH VA TARTIBLSH")
 # print("=" * 50)
